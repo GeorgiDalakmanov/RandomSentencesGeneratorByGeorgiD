@@ -9,7 +9,9 @@ The random sentence generator is just for fun! These sentences can provide humou
 
 
 
-**Solution
+**Solution**
+
+
 The Generator is based on the following model:
 *[Sentence] = 'who' + 'Action' + 'Details'
    **Who** = 'Name' | 'Name' from 'Place'
